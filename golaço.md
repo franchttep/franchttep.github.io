@@ -1,5 +1,6 @@
 ---
 title: golaço
+layout: home
 parent: claro
 nav_order: 2
 ---
