@@ -1,6 +1,5 @@
 ---
 title: Osvaldo
-layout: home
 parent: claro
 nav_order: 1
 ---
