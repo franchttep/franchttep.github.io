@@ -1,7 +1,6 @@
 ---
 title: golaço
 layout: home
-nav_order: 2
 parent: claro
 ---
 # Osvaldo quiere ser Messi
